@@ -1,8 +1,4 @@
-# NFL-Fantasy_Projection_Actuals_Analysis
-
-README
-
-
+ReadME
 # NFL Fantasy Projection Accuracy Analysis
 
 ### Tools Used: Python (Pandas, Matplotlib), AI, Excel
